@@ -96,7 +96,7 @@ Queremos que BuenDiaBuilders sea **open source y colaborativo**.
 
 ## 📱 Comunidad y Contacto
 - 🌐 Website: [https://buendiabuilders.com](https://buendiabuilders.com) 
-- 🐦 Twitter: [@BuenDiaBuilders](https://twitter.com/) 
+- 🐦 Twitter: [@BuenDiaBuilders](https://x.com/buendiabuilders) 
 - 💬 Discord: *(Próximamente)*  
 - 📧 Email: buendiabuilders@gmail.com  
 
