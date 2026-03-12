@@ -1,76 +1,99 @@
 # BuenDiaBuilders
 
-> Builder Lab Web3 desde LATAM.  
-> Creciendo lento. Construyendo en serio.
+> A builder ecosystem focused on shipping real products.
 
-BuenDiaBuilders es un espacio de construcción orientado a producto.
+BuenDiaBuilders is a builder ecosystem based in Latin America focused on learning by building.
 
-Trabajamos en open source, MVPs y experimentos Web3 con evidencia técnica pública.  
-Sin masividad. Sin ruido. Con foco.
+We experiment with emerging technologies, develop open-source projects, and create collaborative spaces where developers turn ideas into working prototypes.
 
----
-
-## 🚀 En desarrollo
-
-### ⚡ be-energy  
-Producto en construcción dentro del ecosistema.
-
-- Desarrollo público en GitHub  
-- Iteración técnica continua  
-- Exploración aplicada en infraestructura Web3  
-
-🔗 https://github.com/BuenDia-Builders/be-energy
+Our approach is simple: build first, document the process, and share what we learn.
 
 ---
 
-## 🧪 Cómo trabajamos
+## Projects
 
-- Código real desde el inicio  
-- Repos públicos  
-- Issues claras  
-- Iteración constante  
+### [be-energy](https://github.com/BuenDia-Builders/be-energy)
 
-Construimos y Explicamos.
+be-energy is an open-source project exploring how renewable energy production can be represented and tracked through digital infrastructure.
 
----
-
-## 🌱 Origen — Código Futura (2025)
-
-Código Futura fue nuestra experiencia fundacional de construcción en Web3. Fue una iniciativa apoyada por el ecosistema Stellar y presentada en hackathons internacionales.
-
-- 120+ personas registradas  
-- 12 proyectos desarrollados  
-- 10 submissions en DoraHacks  
-- Repositorios públicos activos  
-
-🔗 https://github.com/BuenDia-Builders/codigofutura  
-
-Validó nuestra tesis: se aprende construyendo.  
-Hoy el foco es más reducido y orientado a producto.
+The project started as a hackathon idea and has evolved into a collaborative effort where contributors experiment with dashboards, blockchain integrations, and developer tooling.
 
 ---
 
-## 🤝 Colaboración
+### [Adviento 2025](https://adviento2025.buendiabuilders.com)
 
-Estamas abiertas a:
+Adviento was a small experimental game created for the Buen Día Builders ecosystem.
 
-- Integraciones técnicas concretas  
-- Features específicas  
-- Grants o pilotos  
-
-Si querés colaborar, abrí una issue con una propuesta clara.
-
-No buscamos crecer rápido.  
-Buscamos crecer bien.
+It was designed as a playful way to bring builders together through daily challenges and exploration.
 
 ---
 
-## 🛠 Stack
+### Builder Experiments
 
-Solidity · Rust (Soroban) · React · Node.js · GitHub · CLI tools
+Alongside larger projects, we also run small experiments exploring developer workflows, AI tools, and emerging technologies.
+
+These experiments include prototypes, assistants, and playful projects designed to help builders learn by creating.
 
 ---
 
-GitHub: https://github.com/BuenDia-Builders  
-X: https://x.com/buendiabuilders  
-Email: buendiabuilders@gmail.com
+## How we work
+
+We focus on practical experimentation:
+
+- Open repositories from day one  
+- Clear issues and iterative development  
+- Small teams building real prototypes  
+- Public documentation of the process  
+
+The goal is simple: learn by building.
+
+---
+
+## Origins — Código Futura (2025)
+
+[Código Futura](https://github.com/BuenDia-Builders/codigofutura) was our first large ecosystem experiment.
+
+Supported by the Stellar ecosystem and presented in international hackathons, it brought together developers interested in building real projects.
+
+- 120+ developers registered  
+- 12 projects developed  
+- 10 hackathon submissions  
+- Public repositories and demos  
+
+This experience validated our core belief:  
+developers learn faster when they build together.
+
+---
+
+## Collaboration
+
+We’re open to collaborations around:
+
+- developer tooling
+- experimental products
+- builder sessions
+- open-source contributions
+
+Developers are welcome to open issues on GitHub.
+
+For community initiatives, partnerships, or general questions, feel free to reach out via Telegram or email.
+
+---
+## Stack
+
+**Languages**  
+Rust · Solidity · TypeScript · JavaScript
+
+**Frontend**  
+React · Next.js
+
+**Backend / Runtime**  
+Node.js · CLI tools · Golang · Python
+
+**Infrastructure & Protocols**  
+Soroban · Ethereum
+
+**Developer Workflow**  
+GitHub · Open Source Collaboration
+
+---
